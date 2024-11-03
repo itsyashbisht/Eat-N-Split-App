@@ -8,6 +8,10 @@ Eat-N-Split is a React application designed to help friends keep track of shared
 - **Split Bills**: Enter bill details and choose who paid, updating balances automatically.
 - **Responsive UI**: Simple and responsive interface for easy use across devices.
 
+---
+![479shots_so](https://github.com/user-attachments/assets/f67d24aa-15bc-401d-8870-18c008d22465)
+---
+
 ## Installation and Setup
 1. **Clone the Repository**:
    ```bash
