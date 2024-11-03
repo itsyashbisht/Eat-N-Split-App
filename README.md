@@ -13,6 +13,8 @@ Eat-N-Split is a React application designed to help friends keep track of shared
    ```bash
    git clone https://github.com/itsyashbisht/Eat-N-Split.git
    cd Eat-N-Split
+   npm install
+   npm start
 
 # Usage Guide
 
