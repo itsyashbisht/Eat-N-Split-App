@@ -117,7 +117,7 @@ function Friend({ friend, onSelection, selectedFriend }) {
       )}
       {friend.balance > 0 && (
         <p className="green">
-          You owe {friend.name} {Math.round(friend.balance)}$
+          {friend.name} owes you {Math.round(friend.balance)}$
         </p>
       )}
       {friend.balance === 0 && <p>You and {friend.name} are even.</p>}
